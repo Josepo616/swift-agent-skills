@@ -1,0 +1,91 @@
+{
+  "name": "swift-agent-skills",
+  "owner": {
+    "name": "José Álvarez"
+  },
+  "metadata": {
+    "description": "Agent skills for Swift and SwiftUI development",
+    "version": "1.0.0",
+    "pluginRoot": "./skills"
+  },
+  "plugins": [
+    {
+      "name": "swift-naming-conventions",
+      "source": "./skills/01-naming-conventions",
+      "description": "Apply Swift naming conventions and API design guidelines",
+      "version": "1.0.0"
+    },
+    {
+      "name": "swift-observable-architecture",
+      "source": "./skills/02-observable-architecture",
+      "description": "Use @Observable and modern MVVM architecture patterns in SwiftUI",
+      "version": "1.0.0"
+    },
+    {
+      "name": "swift-concurrency",
+      "source": "./skills/03-swift-concurrency",
+      "description": "Apply Swift concurrency patterns with async/await, Actors, and Sendable",
+      "version": "1.0.0"
+    },
+    {
+      "name": "swift-project-structure",
+      "source": "./skills/04-project-structure",
+      "description": "Organize SwiftUI project structure and file layout",
+      "version": "1.0.0"
+    },
+    {
+      "name": "swift-protocol-oriented",
+      "source": "./skills/05-protocol-oriented-programming",
+      "description": "Apply protocol-oriented programming patterns in Swift",
+      "version": "1.0.0"
+    },
+    {
+      "name": "swift-error-handling",
+      "source": "./skills/06-error-handling",
+      "description": "Apply Swift error handling best practices",
+      "version": "1.0.0"
+    },
+    {
+      "name": "swift-dependency-injection",
+      "source": "./skills/07-dependency-injection",
+      "description": "Implement dependency injection patterns in SwiftUI",
+      "version": "1.0.0"
+    },
+    {
+      "name": "swift-swiftui-performance",
+      "source": "./skills/08-swiftui-performance",
+      "description": "Optimize SwiftUI view performance",
+      "version": "1.0.0"
+    },
+    {
+      "name": "swift-access-control",
+      "source": "./skills/09-access-control",
+      "description": "Apply Swift access control levels and code organization",
+      "version": "1.0.0"
+    },
+    {
+      "name": "swift-testing",
+      "source": "./skills/10-swift-testing",
+      "description": "Write tests using the Swift Testing framework",
+      "version": "1.0.0"
+    },
+    {
+      "name": "swift-accessibility",
+      "source": "./skills/11-accessibility",
+      "description": "Implement SwiftUI accessibility best practices",
+      "version": "1.0.0"
+    },
+    {
+      "name": "swift-previews",
+      "source": "./skills/12-previews",
+      "description": "Set up and use SwiftUI previews effectively",
+      "version": "1.0.0"
+    },
+    {
+      "name": "swift-codable-data-modeling",
+      "source": "./skills/13-codable-data-modeling",
+      "description": "Design data models with Codable and JSON parsing",
+      "version": "1.0.0"
+    }
+  ]
+}
