@@ -1,0 +1,5 @@
+{
+  "name": "swift-dependency-injection",
+  "description": "Implement dependency injection patterns in SwiftUI",
+  "version": "1.0.0"
+}

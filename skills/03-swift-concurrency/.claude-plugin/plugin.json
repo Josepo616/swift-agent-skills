@@ -1,0 +1,5 @@
+{
+  "name": "swift-concurrency",
+  "description": "Apply Swift concurrency patterns with async/await, Actors, and Sendable",
+  "version": "1.0.0"
+}

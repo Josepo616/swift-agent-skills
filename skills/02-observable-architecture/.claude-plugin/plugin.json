@@ -1,0 +1,5 @@
+{
+  "name": "swift-observable-architecture",
+  "description": "Use @Observable and modern MVVM architecture patterns in SwiftUI",
+  "version": "1.0.0"
+}

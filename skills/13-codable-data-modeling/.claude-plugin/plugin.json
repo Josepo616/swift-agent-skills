@@ -1,0 +1,5 @@
+{
+  "name": "swift-codable-data-modeling",
+  "description": "Design data models with Codable and JSON parsing",
+  "version": "1.0.0"
+}
