@@ -86,6 +86,12 @@
       "source": "./skills/13-codable-data-modeling",
       "description": "Design data models with Codable and JSON parsing",
       "version": "1.0.0"
+    },
+    {
+      "name": "swift-swiftdata",
+      "source": "./skills/14-swiftdata",
+      "description": "Persistence with SwiftData: @Model, @Query, #Predicate, relationships, migrations, and iCloud sync",
+      "version": "1.0.0"
     }
   ]
 }
