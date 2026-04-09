@@ -1,0 +1,5 @@
+{
+  "name": "swift-swiftdata",
+  "description": "Persistence with SwiftData: @Model, @Query, #Predicate, relationships, migrations, and iCloud sync",
+  "version": "1.0.0"
+}
