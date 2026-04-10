@@ -98,6 +98,12 @@
       "source": "./skills/15-mvvm-service-architecture",
       "description": "MVVM + Service-Oriented Architecture for SwiftUI apps",
       "version": "1.0.0"
+    },
+    {
+      "name": "swift-security",
+      "source": "./skills/16-swift-security",
+      "description": "Apple security frameworks: Keychain Services, CryptoKit, biometric auth, Secure Enclave, and credential storage patterns",
+      "version": "1.0.0"
     }
   ]
 }
