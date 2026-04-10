@@ -1,0 +1,5 @@
+{
+  "name": "swift-security",
+  "description": "Apple security frameworks: Keychain Services, CryptoKit, biometric auth, Secure Enclave, and credential storage patterns",
+  "version": "1.0.0"
+}
